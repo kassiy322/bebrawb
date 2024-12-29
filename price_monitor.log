@@ -1,0 +1,7 @@
+2024-12-24 18:47:26,844 - aiogram.dispatcher - INFO - Start polling
+2024-12-24 18:47:27,729 - aiogram.dispatcher - INFO - Run polling for bot @pipwbbot id=7929496116 - 'botwbpip'
+2024-12-24 18:47:34,406 - aiogram.event - INFO - Update id=277469206 is handled. Duration 1976 ms by bot id=7929496116
+2024-12-24 18:47:47,482 - __main__ - WARNING - Price element not found for URL: https://www.wildberries.ru/catalog/237130474/detail.aspx
+2024-12-24 18:47:47,873 - aiogram.event - INFO - Update id=277469207 is handled. Duration 1144 ms by bot id=7929496116
+2024-12-24 18:48:36,180 - aiogram.dispatcher - INFO - Polling stopped
+2024-12-24 18:48:36,444 - aiogram.dispatcher - INFO - Polling stopped for bot @pipwbbot id=7929496116 - 'botwbpip'
